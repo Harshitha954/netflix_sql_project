@@ -1,4 +1,5 @@
 # Netflix SQL Data Analysis Project
+![Netflix Logo](https://github.com/Harshitha954/netflix_sql_project/blob/main/netflix_img.jpg)
 
 A clean, professional SQL portfolio project demonstrating data analysis and querying techniques using a Netflix dataset. This repository contains structured table creation scripts and analytical queries solving real-world business and data exploration questions using PostgreSQL.
 
